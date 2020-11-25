@@ -10,6 +10,8 @@ Les comparto las tecnologias que actualmente estoy manejando:
 
 **Database:** PostgresSQL, MySQL y Firebase.
 
+**Ultimo proyecto:** https://astridtoys.herokuapp.com/
+
 <!--
 **Rodriip95/Rodriip95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
