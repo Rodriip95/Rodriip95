@@ -14,7 +14,7 @@ Les comparto las tecnologias que actualmente estoy manejando:
 
 ## Proyectos: 
 
-Ecommerce: [AstridToys](https://astridtoys.herokuapp.com/)
+:gift: Ecommerce: [AstridToys](https://astridtoys.herokuapp.com/)
 * Proyecto didactivo, el cual se trabajo en PERN y deployado en Heroku.
 
 :pizza: Menu digital: [Menu](https://ecommercereact-3a9a0.web.app/checkout)
