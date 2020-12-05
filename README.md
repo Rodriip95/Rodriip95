@@ -17,7 +17,7 @@ Les comparto las tecnologias que actualmente estoy manejando:
 :gift: Ecommerce: [AstridToys](https://astridtoys.herokuapp.com/)
 * Proyecto didactivo, el cual se trabajo en PERN y deployado en Heroku.
 
-:pizza: Menu digital: [Menu](https://ecommercereact-3a9a0.web.app/checkout)
+:pizza: Menu digital: [Menu](https://ecommercereact-3a9a0.web.app)
 * Proyecto piloto, esta trabajado en React con Firebase. Este proyecto es una plantilla pensada en una carta digital de productos para restaurants para facilitarle el acceso a la carta a los invitados. Se puede ver la Demo de la app haciendo click [AQUI](https://youtu.be/KMIiaTROGX4)
 
 <!--
