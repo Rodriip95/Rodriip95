@@ -14,6 +14,9 @@ Les comparto las tecnologias que actualmente estoy manejando:
 
 ## Proyectos: 
 
+:rocket: Comentarios de Alumnos: [Comments](https://ecommercereact-3a9a0.web.app/)
+* Henry me dio la oportunidad de ser Tutor de un grupo de Alumnos (15 personas aprox) que estan en las primeras instancias del Bootcamp y mi tarea es resolver sus dudas, acompañarlos en su carrera dentro de Henry y trasmitirles conocimientos utiles. Les cree una App para que nos dejen Feedback, Reviews o comentarios, esta hecha con React y Firebase.
+
 :gift: Ecommerce: [AstridToys](https://astridtoys.herokuapp.com/)
 * Proyecto didactivo, el cual se trabajo en PERN y deployado en Heroku.
 
