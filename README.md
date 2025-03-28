@@ -1,6 +1,6 @@
 # Bienvenidos a mi Repositorio! 😄
 
-Mi nombre es [Rodrigo Manuel Penela](www.linkedin.com/in/rodrigomanuelpenela) y soy Full Stack Developer Jr.
+Mi nombre es [Rodrigo Manuel Penela](www.linkedin.com/in/rodrigomanuelpenela) y soy Dev FrontEnd Mobile Ssr.
 
 Les comparto las tecnologias que actualmente estoy manejando:
 
